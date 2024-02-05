@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/tanaydwivedi095](github.com/tanaydwivedi095)
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, Java, ML, CNN**
 
 - 📫 How to reach me **tanaydwivedi095@gmail.com**
 
