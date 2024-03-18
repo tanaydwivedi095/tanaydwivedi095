@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanay Dwivedi</h1>
 <h3 align="center">A passionate problem solver from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👨‍💻 All of my projects are available at [github.com/tanaydwivedi095](github.com/tanaydwivedi095)
 
 - 💬 Ask me about **Python, Java, ML, CNN**
