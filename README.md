@@ -1,24 +1,56 @@
-<h1 align="center">Hi 👋, I'm Tanay Dwivedi</h1>
-<h3 align="center">A passionate problem solver from India</h3>
+# 👋 Hi, I'm Tanay Dwivedi
 
-- 👨‍💻 All of my projects are available at [github.com/tanaydwivedi095](github.com/tanaydwivedi095)
+🚀 **Machine Learning Engineer** | **AI & Big Data Specialist** | **Associate Software Engineer at Accenture**
 
-- 💬 Ask me about **Python, Java, ML, CNN**
+I am passionate about **Machine Learning, Deep Learning, and AI-driven solutions**, with expertise in **building intelligent models, optimizing deep learning architectures, and applying NLP & Computer Vision to solve real-world challenges**. My work focuses on designing **highly efficient machine learning models**, fine-tuning AI algorithms, and integrating them with scalable Big Data pipelines.
 
-- 📫 How to reach me **tanaydwivedi095@gmail.com**
+## 🛠️ Tech Stack
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UlpFb_rLJy-gmc8UZIGwenWPuca7I3ag/view?usp=sharing](https://drive.google.com/file/d/1UlpFb_rLJy-gmc8UZIGwenWPuca7I3ag/view?usp=sharing)
+- **Machine Learning & AI:** PyTorch, TensorFlow, Hugging Face, OpenAI, Transformers, Vision Transformers, CNNs
+- **Big Data:** Hadoop, Kafka, PySpark, Hive, SQL
+- **NLP & Computer Vision:** RAG, Speech-to-Text, Image Classification, Generative AI
+- **Web & Backend:** Django, Spring Boot, REST APIs
+- **Cloud & DevOps:** Azure, Docker, Kubernetes
+- **Programming:** Python, Java, HQL, SQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanay-dwivedi-8601b3204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanay-dwivedi-8601b3204/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanay_dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanay_dwivedi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanaydwivedi095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanaydwivedi095" height="30" width="40" /></a>
-</p>
+## 🚀 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🔬 **OncoDerm** – AI-powered **skin cancer classification system**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanaydwivedi095&show_icons=true&locale=en&layout=compact" alt="tanaydwivedi095" /></p>
+- Designed and developed two **ML models** for skin lesion classification:
+  - CNN-based model with **90.11% accuracy** using transfer learning & Random Forest.
+  - Vision Transformer-based model achieving **95.63% accuracy**, improving precision and recall.
+- Built a **Streamlit-based interface** for seamless image uploads and real-time classification.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanaydwivedi095&show_icons=true&locale=en" alt="tanaydwivedi095" /></p>
+### 🍏 **NutriSense** – AI-driven **nutrition assistant**
+
+- Developed an **NLP-powered AI assistant** leveraging **Retrieval-Augmented Generation (RAG)** to verify nutrition data.
+- Implemented **Gemma & Qwen NLP models** to enhance response accuracy.
+- Tested the model over **1,000 queries**, improving data accuracy by **10%** and reducing user search time by **15%**.
+
+### 🎥 **MovieSubGen** – AI-driven **subtitle generator**
+
+- Engineered an **end-to-end speech-to-text ML model** for generating **timed movie subtitles**.
+- Improved subtitle synchronization and transcription accuracy using **pre-trained language models**.
+
+### ✍️ **StoryForge** – AI-powered **story generator**
+
+- Developed a **fine-tuned AI agent** capable of generating structured and engaging stories.
+- Optimized narrative coherence and fluency using **advanced NLP models**.
+
+## 📚 Publications
+
+- **Lightweight Vision Transformer for Skin Cancer Detection** – Achieved **95.82% accuracy**, published in Springer.
+- **Hybrid CNN & Transfer Learning for Skin Cancer Classification** – Achieved **90.11% accuracy**, improving diagnostic efficiency.
+
+## 📫 Let's Connect!
+
+- **LinkedIn:** [https://www.linkedin.com/in/tanaydwivedi095](https://www.linkedin.com/in/tanaydwivedi095)
+- **GitHub:** [github.com/tanaydwivedi095](https://github.com/tanaydwivedi095)
+- **Portfolio:** [tanaydwived095.netlify.app](https://tanaydwived095.netlify.app)
+- **Email:** [tanaydwivedi095@gmail.com](mailto:tanaydwivedi095@gmail.com)
+
+---
+
+🔍 *Machine Learning enthusiast dedicated to building AI-driven innovations and contributing to open-source projects!*
+
